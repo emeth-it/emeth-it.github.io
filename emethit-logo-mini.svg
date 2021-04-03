@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="570.46" height="160.57">
+    <g id="container" transform="translate(-2.4342105,-491.0307)">
+        <rect style="fill:none" id="rect761-8" width="570.46" height="160.57" x="2.43" y="491.03"/>
+        <g class="svg-clip svg-visible" transform="matrix(2.7451,0,0,2.7451,269.2818,430.05193)" style="opacity:1" id="logo1-icon-0-0">
+            <path d="m 54.666,49.756 c -7.186,0 -13.032,5.846 -13.032,13.032 0,7.186 5.847,13.031 13.032,13.031 7.185,0 13.031,-5.846 13.031,-13.031 0,-7.185 -5.845,-13.032 -13.031,-13.032 z m 0,23.063 c -5.532,0 -10.032,-4.5 -10.032,-10.031 0,-5.532 4.5,-10.032 10.032,-10.032 5.531,0 10.031,4.5 10.031,10.032 0,5.531 -4.5,10.031 -10.031,10.031 z"
+                  stroke="none" id="logo1-icon-1-8-1" style="fill:#0e9af1"/>
+            <path d="m 34.375,30.514 c -3.786,0 -6.867,3.081 -6.867,6.867 0,3.786 3.081,6.867 6.867,6.867 3.786,0 6.866,-3.081 6.866,-6.867 0,-3.786 -3.08,-6.867 -6.866,-6.867 z m 0,10.734 c -2.133,0 -3.867,-1.734 -3.867,-3.867 0,-2.133 1.734,-3.867 3.867,-3.867 2.132,0 3.866,1.734 3.866,3.867 0,2.133 -1.734,3.867 -3.866,3.867 z"
+                  stroke="none" id="logo1-icon-2-2-5" style="fill:#0e9af1"/>
+            <circle cx="33.59" cy="61.15" r="5.37" stroke="none" id="logo1-icon-3-0-1" style="fill:#0e9af1"/>
+            <circle cx="42.15" cy="46.04" r="2.41" stroke="none" id="logo1-icon-6-6-1" style="fill:#0e9af1"/>
+            <circle cx="50.47" cy="31.02" r="3.11" stroke="none" id="logo1-icon-5-0-1" style="fill:#0e9af1"/>
+            <circle cx="62.99" cy="38.64" r="4.5" stroke="none" id="logo1-icon-4-7-5" style="fill:#0e9af1"/>
+        </g>
+        <text xml:space="preserve"
+              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'Apple Braille';-inkscape-font-specification:'Apple Braille';letter-spacing:0px;word-spacing:0px"
+              x="11.89" y="604.48" id="text811-2-1"><tspan id="tspan809-9-7" x="11.89" y="604.48" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Futura;-inkscape-font-specification:Futura;fill:#3a3a3a;fill-opacity:1">EMETH     IT</tspan></text>
+    </g>
+</svg>
